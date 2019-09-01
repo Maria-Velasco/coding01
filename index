@@ -13,7 +13,12 @@ Notes:
     <head>
         <title>My Page</title>
     </head>
-    
+    <style>
+        body{
+            background-color: #D9F3F1;
+        };
+    </style>
+
     <body>
         <br>
             <center>
